@@ -15603,11 +15603,6 @@
   "RootNamespace": "Projetos_Net",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15618,23 +15613,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Valores\\Index.cshtml",
+      "TargetPath": "Views\\Valores\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\etoma\\Documents\\Projetos_Net\\GastosMensais\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

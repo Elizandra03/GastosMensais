@@ -23,9 +23,6 @@ C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\scopedcss\b
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.TagHelpers.input.cache
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.TagHelpers.output.cache
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.RazorCoreGenerate.cache
-C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -38,3 +35,4 @@ C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\ref\Projeto
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.pdb
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.genruntimeconfig.cache
 C:\Users\etoma\documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Projetos_Net.csproj.CopyComplete
+C:\Users\etoma\Documents\Projetos_Net\GastosMensais\obj\Debug\net5.0\Razor\Views\Valores\Index.cshtml.g.cs
